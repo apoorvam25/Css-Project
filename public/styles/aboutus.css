@@ -1,6 +1,5 @@
 transparent{
     background-color : hsla(0, 0%, 0%, 0.7);
-  
   }
   
   .nav-link{
@@ -30,7 +29,7 @@ transparent{
   text-align: center;
    color: azure;
    font-family: 'Crushed';
-   font-size: 60px;
+   font-size: 40px;
   }
 
   .bgimg{
